@@ -6,5 +6,5 @@
 기간: 2022년 8월 ~ 9월<br>
 팀원: 고경훈(팀장), 김기홍, 장건, 박민관, 반재영<br>
 
-## 사용 모델 : Yolov5 *(코드 참고: final_model.ipynb)*
+## 사용 모델 : Yolo v5 *(코드 참고: final_model.ipynb)*
 Flask를 사용하여 웹과의 연결을 시도했습니다.
